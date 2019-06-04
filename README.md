@@ -1,1 +1,2 @@
 # PythonCode
+print {"hello world"}
